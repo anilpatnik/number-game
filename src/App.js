@@ -45,7 +45,7 @@ export default function App() {
         .join("")
     });
   };
-  // local variables
+  // destructure the state
   const { reverseNumber, newNumber } = input;
   const classes = useStyles();
   // render component
