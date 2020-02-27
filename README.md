@@ -6,7 +6,7 @@
 4. If `Initial Input` matches `Match Input` then `Green` tick appears otherwise `Red` cross
 5. Click on `Back` button to reset (Go to Page 1)
 
-#### [Click here for app DEMO](https://anilpatnik.github.io/number-game){:target="\_blank"}
+#### [DEMO](https://anilpatnik.github.io/number-game)
 
 ## Frameworks and IDE
 
