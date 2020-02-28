@@ -22,11 +22,3 @@
 4. Run command `yarn`
 5. Run command `yarn start`
 6. App opens in browser with https://localhost:3000
-
-## React UI
-
-![page1](screens/page1.png)
-
-![page2](screens/page2.png)
-
-![page3](screens/page3.png)
