@@ -16,9 +16,8 @@
 
 ## Build and Run
 
-1. Git clone the project
-2. Checkout master and pull latest
-3. Open VS Code Terminal
-4. Run command `yarn`
-5. Run command `yarn start`
-6. App opens in browser with http://localhost:3000
+1. Clone the repository
+2. Open Visual Studio Code terminal
+3. Run command `yarn`
+4. Run command `yarn start`
+5. App opens in browser with http://localhost:3000
